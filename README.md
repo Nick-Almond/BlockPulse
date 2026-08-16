@@ -1,4 +1,5 @@
 # Lemu
+<img width="942" height="403" alt="image" src="https://github.com/user-attachments/assets/69660c99-f080-4273-9b32-8949aff24bf6" />
 
 **Liquid Engagement Multiplier Utility**
 
