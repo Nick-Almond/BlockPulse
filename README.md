@@ -78,11 +78,9 @@ If the 10% threshold is never reached, no coordinated move happens. This is inte
 
 ### Prerequisites
 - Node.js 20+
-- A Solana wallet (example: `61XL88MLZj96yxD4bVQNL35GH9YgnSLGg7R6uN5Rp3CW`)
+- A Solana wallet (example: `4Ji3sELwVFhny2hdAcwaNyKcL513kgDT2iaCADt4Mveq`)
 - Small amount of SOL for fees (signals are near-free)
 
-Tip JarIf you find Lemu useful, feel free to send a tip:Solana Address:
-61XL88MLZj96yxD4bVQNL35GH9YgnSLGg7R6uN5Rp3CW
 
 
 
